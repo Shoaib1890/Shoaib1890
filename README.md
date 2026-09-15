@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Mohammed Shoaib
 **A passionate Software Engineer || Fullstack Developer || Founding Team at SwitchiT**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **shoaibmohammed1890@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 - 🔭 **I’m currently working on:** Building full-stack applications and turning ideas into real-world products.
@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 - 👯 **I’m looking to collaborate on:** Open-source projects, AI applications, and interesting full-stack products.
 - 🤔 **I’m looking for help with:** Writing scalable, production-ready software and improving my system design skills.
 - 💬 **Ask me about:** React, Next.js, Node.js, Python, APIs, and Full-Stack Development.
-- 📫 **How to reach me:** [Your Email]
+- 📫 **How to reach me:** shoaibmohammed1890@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I don’t just like building software — I like figuring out how things work under the hood.
 
