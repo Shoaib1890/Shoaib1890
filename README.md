@@ -35,6 +35,5 @@ Email Me 👉 ✉️ **shoaibmohammed1890@gmail.com** For Collaboration/Project 
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shoaib1890&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
