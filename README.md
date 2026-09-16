@@ -8,7 +8,7 @@ I have experience building production applications across the frontend and backe
 with a focus on **React, Next.js, TypeScript, Node.js, Python and PostgreSQL**.
 
 <p align="left">
-  <a href="https://linkedin.com/in/mohammed-shoaib-5a871826">
+  <a href="https://www.linkedin.com/in/mohammed-shoaib-5a8718261/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://shoaib1890.netlify.app/">
