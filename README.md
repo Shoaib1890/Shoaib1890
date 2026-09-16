@@ -7,15 +7,19 @@ I build full-stack applications and enjoy turning ideas into real-world products
 I have experience building production applications across the frontend and backend,
 with a focus on **React, Next.js, TypeScript, Node.js, Python and PostgreSQL**.
 
+<p>
+  📧 <strong>Email:</strong>
+  <a href="mailto:shoaibmohammed1890@gmail.com">
+    shoaibmohammed1890@gmail.com
+  </a>
+</p>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-shoaib-5a8718261/">
+  <a href="https://linkedin.com/in/mohammed-shoaib-5a871826">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://shoaib1890.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-1A7F5A?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:shoaibmohammed1890@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -35,7 +39,7 @@ building and shipping real-world web applications.
 - Backend APIs and database integration
 - Product development and deployment
 
-> Company projects are intentionally not linked here.
+
 
 ---
 
