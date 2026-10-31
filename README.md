@@ -148,7 +148,7 @@ I'm open to software engineering opportunities, interesting projects,
 and collaborations.
 
 <p align="left">
-  <a href="https://linkedin.com/in/mohammed-shoaib-5a871826">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/mohammed-shoaib-5a8718261">LinkedIn</a> ·
   <a href="https://shoaib1890.netlify.app/">Portfolio</a> ·
   <a href="mailto:shoaibmohammed1890@gmail.com">Email</a>
 </p>
